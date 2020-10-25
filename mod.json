@@ -1,0 +1,6 @@
+name: "Mod3"
+displayName: "[slate]Netherite Mod" 
+author: "[scarlet]r/Puppy_Reddit and Bbsx"
+description: "Uses netherite to build netherite technology"
+version: ".1 = Deafault"
+minGameVersion: "103"
