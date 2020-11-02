@@ -1,0 +1,9 @@
+type: wall
+category: defense
+name: Netherite wall
+description: A wall that is equivalent to a large surge wall
+health: 3680
+research: surge-wall-large
+requirements: [
+ netherite/6
+]

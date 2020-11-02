@@ -1,0 +1,9 @@
+type: wall
+category: defense
+name: Large Netherite wall
+description: A Wall that is 5 times tougher than the large surge wall
+health: 18400
+research: surge-wall-large
+requirements: [
+ netherite/24
+]
